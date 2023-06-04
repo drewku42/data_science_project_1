@@ -1,4 +1,4 @@
-# Data Science Salaries Analysis
+# Data Science Project 1: Salaries Analysis
 This project is an exploratory data analysis of the 'Data Science Salaries 2023' dataset from Kaggle. The goal of the project is to gain insights into the data science job market, including the distribution of job titles, the relationship between company size and salary, and the comparison of remote and in-person jobs.
 
 Dataset:
