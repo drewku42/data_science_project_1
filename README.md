@@ -9,7 +9,7 @@ The dataset includes the following columns:
 - job_title: The role worked in during the year.
 - salary: The total gross salary amount paid.
 - salary_currency: The currency of the salary paid as an ISO 4217 currency code.
-- salaryinusd: The salary in USD.
+- salary_in_usd: The salary in USD.
 - employee_residence: Employee's primary country of residence in during the work year as an ISO 3166 country code.
 - remote_ratio: The overall amount of work done remotely.
 - company_location: The country of the employer's main office or contracting branch.
