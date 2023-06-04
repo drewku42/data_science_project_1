@@ -19,12 +19,9 @@ Methodology
 The analysis was conducted in a Jupyter Notebook using Python. The pandas library was used for data manipulation, and matplotlib and seaborn were used for data visualization.
 
 The analysis included the following steps:
-
-Data Importing: The dataset was imported into a pandas DataFrame.
-
-Data Exploration: The data was explored to understand the distribution of values in each column. This included calculating basic statistics and creating visualizations such as bar charts and box plots.
-
-Data Analysis: The data was analyzed to answer specific questions, such as which job titles are most common, how company size affects salary, and how the number of remote and in-person jobs compare. This involved creating more complex visualizations and calculating correlations between different variables.
+ 1) Data Importing: The dataset was imported into a pandas DataFrame.
+ 2) Data Exploration: The data was explored to understand the distribution of values in each column. This included calculating basic statistics and creating visualizations such as bar charts and box plots.
+ 3) Data Analysis: The data was analyzed to answer specific questions, such as which job titles are most common, how company size affects salary, and how the number of remote and in-person jobs compare. This involved creating more complex visualizations and calculating correlations between different variables.
 
 Findings
 The analysis revealed several interesting insights:
