@@ -1,6 +1,6 @@
 # This code was initially written in a Jupyter notebook but I adapted it to a single module.
 # pandas for data manipulation, numpy for computation, 
-# matplotlib/seaborn for visualization, scikit for ML
+# matplotlib/seaborn for visualization
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
