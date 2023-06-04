@@ -28,10 +28,10 @@ Data Analysis: The data was analyzed to answer specific questions, such as which
 
 Findings
 The analysis revealed several interesting insights:
+- The most common job titles in the data science field were Data Engineer, Data Scientist, and Data Analyst.
+- There was a positive correlation between company size and salary, with larger companies generally paying higher salaries.
+- The distribution of salaries varied significantly between different job titles.
+- The majority of jobs were in-person, but a significant proportion were remote.
 
-The most common job titles in the data science field were Data Engineer, Data Scientist, and Data Analyst.
-There was a positive correlation between company size and salary, with larger companies generally paying higher salaries.
-The distribution of salaries varied significantly between different job titles.
-The majority of jobs were in-person, but a significant proportion were remote.
 Conclusion
 This project provided valuable insights into the data science job market. However, it's important to note that the findings are based on the specific dataset used and may not be representative of the entire field. Future work could include analyzing more recent data, incorporating additional variables, or using more advanced statistical techniques to gain deeper insights.
