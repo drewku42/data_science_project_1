@@ -2,7 +2,7 @@
 This project is an exploratory data analysis of the 'Data Science Salaries 2023' dataset from Kaggle. The goal of the project is to gain insights into the data science job market, including the distribution of job titles, the relationship between company size and salary, and the comparison of remote and in-person jobs.
 
 Dataset:
-The dataset includes the following columns:
+The dataset includes the following features:
 - work_year: The year the salary was paid.
 - experience_level: The experience level in the job during the year.
 - employment_type: The type of employment for the role.
